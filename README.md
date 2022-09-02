@@ -1,7 +1,7 @@
 ## Olá, o meu nome é Lucas de Lima, mas Monza também serve!!!😁
 
 - 🏫 Cursando **Informática para Internet**
-- 🌱 Estudando C-Sharp
+- 🌱 Estudando C-Sharp, HTML e CSS
 - 😄 Pronomes: ele/dele
 
 <div align="center">
