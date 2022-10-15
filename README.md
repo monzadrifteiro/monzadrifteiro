@@ -2,7 +2,7 @@
 
 - 🏫 Cursando **Informática para Internet**
 - 🌱 Estudando C-Sharp, HTML e CSS
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/monzadrifteiro">
