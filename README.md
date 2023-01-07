@@ -1,4 +1,4 @@
-## Olá, o meu nome é Lucas de Lima, mas Monza também serve!!!😁
+## Fala fio
 
 - 🏫 Cursando **Informática para Internet**
 - 🌱 Estudando C-Sharp, HTML e CSS
