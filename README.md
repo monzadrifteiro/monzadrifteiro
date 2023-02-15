@@ -1,4 +1,4 @@
-## Fala fio
+# Fala fio
 
 - 🏫 Cursando **Informática para Internet**
 - 🌱 Estudando C-Sharp, HTML e CSS
@@ -15,7 +15,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dallas" height="30" width="40" src="https://github.com/monzadrifteiro/Last-Bullet/tree/main/Dallas/face.png">
 </div>
 
 ##
@@ -27,4 +26,5 @@
  
  ![Snake animation](https://github.com/monzadrifteiro/monzadrifteiro/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://github.com/monzadrifteiro/Last-Bullet" target="_blank"><img align="left" alt="Dallas" height="30" width="30" src="https://user-images.githubusercontent.com/93940387/219217874-cd1b11e9-c2fb-48f1-865c-be0441e1375e.png"></a>
 </div>
