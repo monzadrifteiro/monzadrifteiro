@@ -1,4 +1,4 @@
-# Fala fio
+# Olá!
 
 - 🏫 Cursando **Informática para Internet**
 - 🌱 Estudando C-Sharp, HTML e CSS
