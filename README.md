@@ -1,7 +1,7 @@
 # Olá!
 
 - 🏫 Cursando **Informática para Internet**
-- 🌱 Estudando C-Sharp, HTML e CSS
+- 🌱 Estudando C#, HTML e CSS
 - 🐦 Pronomes: Ele/Dele
 
 <div align="center">
