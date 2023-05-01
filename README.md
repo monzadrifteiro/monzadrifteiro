@@ -39,8 +39,6 @@
   📧  &emsp; Entre em contato comigo: lucas363nunes@gmail.com
 </p>
 
-<br/>
-
 ## Eu manjo de
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
