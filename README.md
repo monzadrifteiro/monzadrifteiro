@@ -32,11 +32,11 @@
  # Sobre mim
  
 <p>
-  🐧  &emsp; Pronomes: Ele/Dele<br/><br/>
+  🐧  &emsp; Pronomes: ele/dele<br/><br/>
   🤠  &emsp; Cursando Informática para Internet<br/><br/>
   🌱  &emsp; Aprendendo sobre JavaScript e Angular<br/><br/>
   ❤️  &emsp; Estou sempre interessado em aprender novas linguagens e tecnologias<br/><br/>
-  📧  &emsp; Entre em contato comigo: lucas363nunes@gmail.com
+  📧  &emsp; Entre em contato comigo: <a href="mailto:lucas363nunes@gmail.com">lucas363nunes@gmail.com</a>
 </p>
 
 ## Eu manjo de
