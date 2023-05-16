@@ -31,7 +31,7 @@
 <!-- About Section -->
  # Sobre mim
   
-<img align="right" src="https://github.com/monzadrifteiro/monzadrifteiro/assets/93940387/39e7adaf-63cc-4d7e-bf73-110d928d1dc9" width="225" />
+<img align="right" src="https://github.com/monzadrifteiro/monzadrifteiro/assets/93940387/39e7adaf-63cc-4d7e-bf73-110d928d1dc9" width="215" />
 
 <p>
   🐧  &emsp; Pronomes: ele/dele<br/><br/>
