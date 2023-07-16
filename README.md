@@ -36,7 +36,7 @@
 <p>
   🐧  &emsp; Pronomes: ele/dele<br/><br/>
   🤠  &emsp; Cursando Informática para Internet<br/><br/>
-  🌱  &emsp; Aprendendo sobre JavaScript e Angular<br/><br/>
+  🌱  &emsp; Aprendendo sobre WordPress<br/><br/>
   ❤️  &emsp; Estou sempre interessado em aprender novas linguagens e tecnologias<br/><br/>
   📧  &emsp; Entre em contato comigo: <a href="mailto:lucas363nunes@gmail.com">lucas363nunes@gmail.com</a>
 </p>
@@ -45,7 +45,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -54,25 +53,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<!-- ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 <br/>
 <hr>
 <br/>
 
-<!--
-<p align="center">
-  <a href="https://github.com/monzadrifteiro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monzadrifteiro&theme=radical&border=7F3FBF&background=0D1117" alt="Lucas GitHub streak"/>
+<div align="center">
+  <a> 
+    <a href="https://github.com/monzadrifteiro"><img alt="Lucas de Lima Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=monzadrifteiro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
+    <a href="https://github.com/monzadrifteiro"><img alt="Lucas de Lima Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=monzadrifteiro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="180em"/></a>
   </a>
-</p>
--->
+</div>
 
-<a> 
-  <a href="https://github.com/monzadrifteiro"><img alt="Lucas de Lima Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=monzadrifteiro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
-  <a href="https://github.com/monzadrifteiro"><img alt="Lucas de Lima Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=monzadrifteiro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
-</a>
-
-![Snake animation](https://github.com/monzadrifteiro/monzadrifteiro/blob/output/github-contribution-grid-snake.svg)
+<!--! [Snake animation](https://github.com/monzadrifteiro/monzadrifteiro/blob/output/github-contribution-grid-snake.svg) --->
