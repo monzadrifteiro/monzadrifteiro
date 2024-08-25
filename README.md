@@ -51,12 +51,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-## 
-
-<div align="center">
-  <a>
-    <a href="https://github.com/monzadrifteiro"><img src="https://github-readme-stats.vercel.app/api?username=monzadrifteiro&show_icons=true&theme=tokyonight" height="180em"/></a>
-    <a href="https://github.com/monzadrifteiro"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzadrifteiro&layout=compact&theme=tokyonight" height="180em"/></a>
-  </a>
-</div>
